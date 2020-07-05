@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>What aiR is.</title>
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700,900&display=swap" rel="stylesheet"/>
+  </head>
+
+  <body>
+    <header class="header">
+        <h1><a href="../main/index.html">aiR</a></h1>
+        <ul class=menu>
+          <li class="menu-item"><a  href="mailto:contact.aiR7@gmail.com">contact</a>　</li>
+        </ul>
+    </header>
+    <!-- header END -->
+
+    <main class="main">
+      <div class="founder">
+        <div class="founderme">
+          <h1 class="toppic">aiR</h1>
+          <p class="toppic-air">あなたの心に、そっと寄り添い続ける。</p>
+        </div>
+        <div class="comment">
+          <h2 class="tn">Discover your True North.</h2>
+          <p>あなたは、<strong>【本来の自分】</strong>ですか？？</p>
+          <p>進路、人間関係、偽りのSNS、他人の目と社会の目、、、、etc</p>
+          <p >あなたの心の奥底にある、<strong>あなただけの【羅針盤】</strong>を見つけ、共にそっと寄り添い続ける。</p>
+          <p>まるで、存在に気づかない空気のように。</p>
+          <p>それが<strong>air</strong>です。</p>
+        </div>
+        <div class="behind">
+          <div class="star">
+            <h2>Behind</h2>
+          </div>
+        <div class="segment">
+          <div class="behind-picture">
+            <img src="stress.png" alt="problems" class="stress">
+          </div>
+          <div class="behind1">
+           <p>みなさん、はじめまして。<br>aiR創設者のShomaです。<br>
+           早速ですが、<br>
+           みなさんは、<strong>『人類がこの地に誕生してから、人間を支え続けるインフラはなんですか？？』</strong><br>
+           と、尋ねられたらなんと答えるでしょうか？？<br>
+           『電気かな、、、ガスかな、、、火かな、、、コミュニティかな？？』<br>
+           私も、自粛期間中に熟考し続けました。<br>
+           ある日、私が過去にコーチングを受けた方の言葉を見返してたときです。<br>
+           <strong>『岩は崩れても、私の精神は崩れなかった。』</strong>という言葉に、強烈な感動を受けました。<br>
+           そのとき私は、『そうか！　僕たちを支え続けたインフラは、【精神】だ！！』 と気付きました。<br>
+           火を起こす時も、最初は「火を起こそう」という【精神】。水を飲む時も、最初は「水を飲もう」という【精神】。<br>
+           そう、人類がこの地に誕生してから我々を支え続けたもの、それは【精神】なのです。</p>
+          </div>
+        </div>
+        <div class="picture2">
+          <div class="behind2">
+            <p>奇遇にも私は、上京して3年間ほぼ毎日、尊敬する方からコーチングを受けていました。</p>
+            <p>その人生哲学を多くの経営者、インフルエンサー、学生に伝えているうちに、<br>『ライフコーチをしてほしい。』『毎週、コーチングをしてほしい。』
+              とお願いされる機会が増えました。</p>
+            <p>そこで、『よし！多くの人の<strong>【人生の悩み】</strong>や<strong>【精神の問題】</strong>を根本からクリアにしよう！』と決意し、現在に至ります。</p>
+
+          </div>
+          <div class="behind1-picture">
+           <img src="creativity.png" alt="creative" class=creative>
+          </div>
+        </div>
+
+        </div>
+      </div>
+
+    </main>
+    <!-- main END -->
+
+    <footer class="footer">
+
+    </footer>
+    <!-- footer END -->
+  </body>
+</html>
