@@ -1,0 +1,103 @@
+.header{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  box-shadow: 0 0 24px rgba(0,0,0,0.2);
+  margin: 22px 50px;
+  padding:22px 80px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  position:fixed;
+  top: 0;
+  left:0;
+  right:0;
+}
+.header h1{
+  width: 194px;
+}
+.menu{
+  display: flex;
+  justify-content: flex-end;
+}
+.menu-item{
+  padding-right: 40px;
+  font-size:18px;
+  color:#ffbe76;
+}
+a:hover{
+  color: indianred;
+  text-decoration:inherit;
+}
+
+
+.first-view-textarea{
+  color:#ffeaa7;
+  text-align: center;
+  margin: 0 200px;
+  padding:30px 0;
+  width:60%;
+  box-shadow: 0 0 24px rgba(0,0,0,0.2);
+  margin: 270px auto;
+  border-radius: 10px;
+  z-index: 2;
+}
+.first-view-textarea h1{
+  font-size:42px;
+  margin-bottom: 10px;
+  text-shadow: 2px 0 1px rgba(0,0,0,0.1);
+  letter-spacing: 3px;
+}
+.first-view-textarea p{
+  font-size:27px;
+  letter-spacing: 3px
+}
+.services-section-bar{
+  font-size: 19px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  background-color: #323232;
+  color: #ffffff;
+  font-size:900;
+  letter-spacing: 3.2px;
+}
+.service-img{
+  width:35%;
+}
+.service-cardarea{
+  display: flex;
+  margin-top: 100px;
+}
+.service-card{
+  text-align: center;
+}
+.service-card+.service-card .service-textarea{
+  border-left:1px solid #ddd;
+}
+.service-textarea p{
+  padding-top: 5px;
+}
+.service-btn{
+  color: #ffffff;
+  background-color: #ffbe76;
+  border-radius: 22px;
+  padding:10px 80px;
+  font-size:16px;
+  display: inline-block;
+  margin-top: 16px;
+  margin-bottom: 30px;
+}
+.footer{
+  background-color: #000000;
+
+}
+.copyright{
+  padding: 30px 0;
+  font-size: 15px;
+  color:#ffffff;
+  text-align: center;
+}
+a:hover{
+  color: indianred;
+  text-decoration:inherit;
+}
